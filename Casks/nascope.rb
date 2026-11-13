@@ -1,6 +1,4 @@
-# Template of the Homebrew cask. It lives in the tap repository (buszi/homebrew-tap, Casks/nascope.rb);
-# this copy is the starting point and the reference. The release workflow rewrites `version` and `sha256`
-# in the tap after every non-pre-release tag (see docs/release.md, "Homebrew tap").
+# Updated by the release workflow of buszi/nascope: it rewrites `version` and `sha256` after each release.
 cask "nascope" do
   version "1.0.0"
   sha256 "0000000000000000000000000000000000000000000000000000000000000000"
