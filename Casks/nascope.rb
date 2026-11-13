@@ -1,7 +1,7 @@
 # Updated by the release workflow of buszi/nascope: it rewrites `version` and `sha256` after each release.
 cask "nascope" do
-  version "1.0.0"
-  sha256 "77d5bce34fead89385d80c7e5892529939cb29486d2a737aee1cdebdee19de52"
+  version "1.1.0"
+  sha256 "74847754f0b0d309a0a80ceb8230045b37cd35c56823a94b1e5029ffa92cf5d8"
 
   url "https://github.com/buszi/nascope/releases/download/v#{version}/Nascope-#{version}.dmg"
   name "Nascope"
